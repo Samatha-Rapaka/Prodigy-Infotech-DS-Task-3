@@ -1,3 +1,4 @@
 # Prodigy InfoTech DS Task-3
 <br> 
-<img src="https://github.com/Samatha-Rapaka/task-3/blob/main/Task-3.png">
+<img src="![Screenshot (20)](https://github.com/user-attachments/assets/74a96b62-fb93-4324-9b59-8526c109c25f)
+">
